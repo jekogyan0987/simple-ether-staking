@@ -17,3 +17,6 @@ A lightweight Web3 application demonstrating the fundamentals of DeFi staking. U
 - Solidity ^0.8.0
 - Hardhat
 - Ethers.js
+
+
+THANKS
