@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Simple Staking</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>ETH Staking Portal</h1>
+        <button id="connectBtn">Connect Wallet</button>
+        <div id="dashboard" style="display:none;">
+            <p>Your Staked Balance: <span id="balance">0</span> ETH</p>
+            <input type="number" id="amount" placeholder="Amount in ETH">
+            <button id="stakeBtn">Stake</button>
+            <button id="withdrawBtn">Withdraw All</button>
+        </div>
+    </div>
+    <script src="https://cdn.ethers.io/lib/ethers-5.2.umd.min.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>
